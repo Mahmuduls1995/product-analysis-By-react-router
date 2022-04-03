@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "name": "Manmun",
+      "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, non.",
+      "ratings": 4,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    },
+    {
+      "id": "2",
+      "name": "Masum",
+      "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, non.",
+      "ratings": 4.2,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    },
+    {
+      "id": "3",
+      "name": "Nahid",
+      "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, non.",
+      "ratings": 4.3,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    },
+    {
+      "id": "4",
+      "name": "Mahadi",
+      "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, non.",
+      "ratings": 4.4,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    },
+    {
+      "id": "5",
+      "name": "Billal",
+      "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, non.",
+      "ratings": 4.5,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    },
+    {
+      "id": "6",
+      "name": "Naymur",
+      "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, non.",
+      "ratings": 4.6,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    },
+    {
+      "id": "7",
+      "name": "Khadiza",
+      "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci, non.",
+      "ratings": 4.7,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+    }
+]
