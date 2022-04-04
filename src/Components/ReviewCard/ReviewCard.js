@@ -5,7 +5,7 @@ const ReviewCard = ({reviews}) => {
 
  const {name,review,ratings,img}=reviews;
     return (
-        <div>
+        <div className="">
         <Col>
           <Card className='shadow border-0 p-5'>
             <Card.Body>

@@ -7,13 +7,14 @@ const Home = () => {
         <div>
             <Row className='d-flex align-items-center container mx-auto'>
                 <Col md={6} sm={12}>
+
                     <h1 className='fw-bold flex  display-4'>Your Next Laptop</h1>
-                    <p>
-                    Performance and battery life was great, no fan noise, and it ran almost every app I needed. But the MacBook Air does all that and more, in a lighter and less costly package. Better performance. Two times the memory and 4x the storage.
+                    <p className="align-items-start">
+                        Performance and battery life was great, no fan noise, and it ran almost every app I needed. But the MacBook Air does all that and more, in a lighter and less costly package. Better performance. Two times the memory and 4x the storage.
                     </p>
 
                     <div className="flex">
-                    <button className='btn btn-primary text-white '>Live Demo</button>
+                        <button className='btn btn-primary text-white '>Live Demo</button>
 
                     </div>
                 </Col>
