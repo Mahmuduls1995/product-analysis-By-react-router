@@ -4,6 +4,8 @@ import Home from './Components/Home/Home';
 import Header from './Components/Header/Header';
 import CustomerReview from './Components/CustomerReview/CustomerReview';
 import Dashboards from './Components/Dashboards/Dashboards';
+import NotFound from './Components/NotFound/NotFound';
+import Blog from './Components/Blogs/Blog';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
         <Route path="/home" element={<Home></Home>}></Route>
         <Route path="/reviews" element={<CustomerReview></CustomerReview>}></Route>
         <Route path="/dashboards" element={<Dashboards></Dashboards>}></Route>
+        <Route path="/blogs" element={<Blog></Blog>}></Route>
+        <Route path="*" element={<NotFound></NotFound>}></Route>
       </Routes>
     </div>
   );

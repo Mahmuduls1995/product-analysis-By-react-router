@@ -14,7 +14,8 @@ const ReviewCard = ({reviews}) => {
              <Card.Title className=" mt-4">{name}</Card.Title>
              </div>
               <Card.Text>
-                {review}
+              { review.length > 150 ? review.slice(0, 150) + '.....': review }
+                {/* {review.slice(0,30)} */}
               </Card.Text>
               <Card.Text>
                 Rating : {ratings}
