@@ -1,12 +1,11 @@
 import React from 'react';
-import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link, NavLink } from 'react-router-dom';
 import './Header.css'
 const Header = () => {
     return (
         
-                <nav>
-                    <div className='link-container '>
+                <div className='sticky top-0 shadow bg-white flex '>
+                    <div className=' text-xl m-auto  py-4'>
                         <NavLink
                             className={({ isActive }) => (isActive ? "active-link" : "link")}
                             to='/home'
@@ -43,7 +42,7 @@ const Header = () => {
 
                     </div>
 
-                </nav>
+                </div>
 
 
 

@@ -5,7 +5,7 @@ const ReviewCard = ({reviews}) => {
 
  const {name,review,ratings,img}=reviews;
     return (
-        <div className="">
+        <div>
         <Col>
           <Card className='shadow border-0 p-5'>
             <Card.Body>
@@ -15,7 +15,6 @@ const ReviewCard = ({reviews}) => {
              </div>
               <Card.Text>
               { review.length > 150 ? review.slice(0, 150) + '.....': review }
-                {/* {review.slice(0,30)} */}
               </Card.Text>
               <Card.Text>
                 Rating : {ratings}
