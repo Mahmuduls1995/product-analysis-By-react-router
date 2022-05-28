@@ -1,7 +1,10 @@
 import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import Reviews from '../Reviews/Reviews';
+import Team from '../Member/Team';
+
 import './Home.css'
+import Stat from '../Statas/Stat';
 const Home = () => {
     return (
         <div>
@@ -23,7 +26,12 @@ const Home = () => {
                 </Col>
             </Row>
             <Reviews></Reviews>
+            <Team></Team>
+            <Stat></Stat>
+            
         </div>
+
+
 
 
     );
